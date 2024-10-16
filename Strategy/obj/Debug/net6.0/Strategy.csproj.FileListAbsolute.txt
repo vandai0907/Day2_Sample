@@ -1,0 +1,14 @@
+E:\repos\Day2_Sample\Strategy\bin\Debug\net6.0\Strategy.exe
+E:\repos\Day2_Sample\Strategy\bin\Debug\net6.0\Strategy.deps.json
+E:\repos\Day2_Sample\Strategy\bin\Debug\net6.0\Strategy.runtimeconfig.json
+E:\repos\Day2_Sample\Strategy\bin\Debug\net6.0\Strategy.dll
+E:\repos\Day2_Sample\Strategy\bin\Debug\net6.0\Strategy.pdb
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfoInputs.cache
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\Strategy.AssemblyInfo.cs
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\Strategy.csproj.CoreCompileInputs.cache
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\Strategy.dll
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\refint\Strategy.dll
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\Strategy.pdb
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\Strategy.genruntimeconfig.cache
+E:\repos\Day2_Sample\Strategy\obj\Debug\net6.0\ref\Strategy.dll

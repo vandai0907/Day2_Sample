@@ -1,0 +1,14 @@
+E:\repos\Day2_Sample\Day2_Sample\bin\Debug\net8.0\Day2_Sample.exe
+E:\repos\Day2_Sample\Day2_Sample\bin\Debug\net8.0\Day2_Sample.deps.json
+E:\repos\Day2_Sample\Day2_Sample\bin\Debug\net8.0\Day2_Sample.runtimeconfig.json
+E:\repos\Day2_Sample\Day2_Sample\bin\Debug\net8.0\Day2_Sample.dll
+E:\repos\Day2_Sample\Day2_Sample\bin\Debug\net8.0\Day2_Sample.pdb
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\Day2_Sample.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\Day2_Sample.AssemblyInfoInputs.cache
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\Day2_Sample.AssemblyInfo.cs
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\Day2_Sample.csproj.CoreCompileInputs.cache
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\Day2_Sample.dll
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\refint\Day2_Sample.dll
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\Day2_Sample.pdb
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\Day2_Sample.genruntimeconfig.cache
+E:\repos\Day2_Sample\Day2_Sample\obj\Debug\net8.0\ref\Day2_Sample.dll

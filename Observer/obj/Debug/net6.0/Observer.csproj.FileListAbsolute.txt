@@ -1,0 +1,14 @@
+E:\repos\Day2_Sample\Observer\bin\Debug\net6.0\Observer.exe
+E:\repos\Day2_Sample\Observer\bin\Debug\net6.0\Observer.deps.json
+E:\repos\Day2_Sample\Observer\bin\Debug\net6.0\Observer.runtimeconfig.json
+E:\repos\Day2_Sample\Observer\bin\Debug\net6.0\Observer.dll
+E:\repos\Day2_Sample\Observer\bin\Debug\net6.0\Observer.pdb
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\Observer.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\Observer.AssemblyInfoInputs.cache
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\Observer.AssemblyInfo.cs
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\Observer.csproj.CoreCompileInputs.cache
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\Observer.dll
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\refint\Observer.dll
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\Observer.pdb
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\Observer.genruntimeconfig.cache
+E:\repos\Day2_Sample\Observer\obj\Debug\net6.0\ref\Observer.dll

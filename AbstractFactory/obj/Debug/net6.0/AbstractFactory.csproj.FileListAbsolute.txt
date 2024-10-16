@@ -1,0 +1,14 @@
+E:\repos\Day2_Sample\AbstractFactory\bin\Debug\net6.0\AbstractFactory.exe
+E:\repos\Day2_Sample\AbstractFactory\bin\Debug\net6.0\AbstractFactory.deps.json
+E:\repos\Day2_Sample\AbstractFactory\bin\Debug\net6.0\AbstractFactory.runtimeconfig.json
+E:\repos\Day2_Sample\AbstractFactory\bin\Debug\net6.0\AbstractFactory.dll
+E:\repos\Day2_Sample\AbstractFactory\bin\Debug\net6.0\AbstractFactory.pdb
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfoInputs.cache
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\AbstractFactory.AssemblyInfo.cs
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\AbstractFactory.csproj.CoreCompileInputs.cache
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\AbstractFactory.dll
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\refint\AbstractFactory.dll
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\AbstractFactory.pdb
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\AbstractFactory.genruntimeconfig.cache
+E:\repos\Day2_Sample\AbstractFactory\obj\Debug\net6.0\ref\AbstractFactory.dll
